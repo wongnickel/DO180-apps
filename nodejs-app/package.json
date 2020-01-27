@@ -7,6 +7,6 @@
   "license": "ASL",
   "dependencies": {
     "express": "4.20.x",
-    "html-errors": "latest"
+    "html-errors": "1.x"
   }
 }
